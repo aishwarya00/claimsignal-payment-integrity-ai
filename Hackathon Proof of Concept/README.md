@@ -5,10 +5,10 @@ This folder contains the complete Cotiviti AI Intern Assessment submission.
 ## Deliverables
 
 - `Cotiviti.ipynb` — end-to-end proof-of-concept notebook
-- `ClaimSignal_Cotiviti_Aishwarya_Pawar_Revised.pptx` — presentation deck
-- `report.docx` — written report and bibliography
-- `presentation_video.mp4` — recorded POC presentation
-- `Aishwarya_Pawar_Resume.pdf` — current resume
+- `Cotiviti_Presentation-AishwaryaPawar.pptx` — presentation deck
+- `Cotiviti_Report-AishwaryaPawar.docx` — written report and bibliography
+- `Cotiviti_Video-AishwaryaPawar.mp4` — recorded POC presentation
+- `AishwaryaPawar Resume.pdf` — current resume
 
 ## Project Summary
 
