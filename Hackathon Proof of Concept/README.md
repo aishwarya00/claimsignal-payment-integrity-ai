@@ -2,6 +2,8 @@
 
 This folder contains the complete Cotiviti AI Intern Assessment submission.
 
+## Live demo: https://agentic-ai-ml-payment-integrity-platform-app.streamlit.app/
+
 ## Deliverables
 
 - `Cotiviti.ipynb` — end-to-end proof-of-concept notebook
